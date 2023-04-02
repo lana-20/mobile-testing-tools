@@ -1,4 +1,6 @@
-# The Landscape of Mobile Testing Tools
+# <img width=60 src="https://user-images.githubusercontent.com/70295997/229382333-c686d733-376f-4a90-8d59-c22bcb50a90c.png"> The Landscape of Mobile Testing Tools
+
+
 *There is a whole slew of tools available to assist you in automating your mobile apps. Even though Appium is the most popular cross-platform mobile automation tool, it's good to have at least an overview of the other options out there.*
 
 | Mobile Automation Tools | Sources |
@@ -11,7 +13,7 @@
 
 Mobile automation is a bit newer than web automation in general, but there have still been a whole slew of mobile automation tools released in the last decade. Most of them are not around any longer, and so thankfully we don't need to cover them. Appium is by far the most generally applicable and popular mobile automation testing tool, but it is not the only one.
 
-Just like we mentioned in the video on the landscape of web testing, choosing whether to use a given tool is a very context- and situation-dependent process. Just because Appium is the most popular doesn't mean it will work the best in every situation. So it's good to understand a bit of the lay of the land, and the advantages and disadvantages of each tool on offer.
+Choosing whether to use a given tool is a very context- and situation-dependent process. Just because Appium is the most popular doesn't mean it will work the best in every situation. So it's good to understand a bit of the lay of the land, and the advantages and disadvantages of each tool on offer.
 
 | Mobile Automations Tools - XCUITest |
 | ---- |
